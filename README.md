@@ -1,1 +1,1 @@
-# Manual-Testing - Test Cases For Alumni
+- Manual Testing Project - Test Cases For Alumni
